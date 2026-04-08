@@ -69,15 +69,25 @@ Host discovery is performed using Mininet commands:
 
 ---
 
+
+
 ## ✅ Conclusion
 
 This project successfully demonstrates host discovery in an SDN environment using Mininet. The system dynamically identifies hosts and provides their details such as IP address, MAC address, and connectivity.
 
 ---
+## 🧪 Commands Used
+
+sudo mn  
+pingall  
+nodes  
+net  
+dump  
 
 ## 👩‍💻 Author
 
 Sreehitha Karanam
+
 ScreenShot1:Pingall
 <img width="940" height="586" alt="image" src="https://github.com/user-attachments/assets/89f8080a-d790-4087-b1ca-599b33dce9de" />
 ScreenShot2 :dump
