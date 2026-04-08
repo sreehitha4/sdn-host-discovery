@@ -52,11 +52,9 @@ Host discovery is performed using Mininet commands:
 
 ### ✅ Ping Test
 
-(Insert screenshot here)
 
 ### ✅ Host Discovery Output
 
-(Insert dump screenshot here)
 
 ---
 
