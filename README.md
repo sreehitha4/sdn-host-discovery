@@ -47,6 +47,14 @@ Host discovery is performed using Mininet commands:
 * Dynamic detection of hosts and their details
 
 ---
+## 💻 Conceptual Logic (Pseudo Code)
+
+1. Start Mininet network
+2. Create hosts and switches
+3. Establish connections
+4. Send packets using ping
+5. Capture host details using dump
+6. Display IP, MAC, and connectivity
 
 ## 📸 Proof of Execution
 
