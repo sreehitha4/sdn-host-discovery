@@ -1,0 +1,22 @@
+# Mininet Host Discovery Project
+
+# Clean previous configuration
+sudo mn -c
+
+# Start Mininet
+sudo mn
+
+# Test connectivity
+pingall
+
+# Show nodes
+nodes
+
+# Show topology
+net
+
+# Display host details (Host Discovery)
+dump
+
+# Optional test
+h1 ping h2
