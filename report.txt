@@ -1,0 +1,9 @@
+This project demonstrates Host Discovery in a Software Defined Network using Mininet.
+
+Mininet is used to simulate a network consisting of hosts and switches.
+
+The connectivity between hosts is verified using pingall.
+
+Host discovery is implemented using the dump command, which displays details such as IP address, MAC address, and interface connections.
+
+The project successfully shows how hosts can be identified dynamically in an SDN environment.
